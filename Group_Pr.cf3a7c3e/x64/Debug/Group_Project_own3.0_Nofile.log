@@ -1,0 +1,5 @@
+﻿  function.c
+E:\WAIT\visual studio 2022\Group_Project_own3.0_Nofile\function.c(255,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  test.c
+  正在生成代码...
+  Group_Project_own3.0_Nofile.vcxproj -> E:\WAIT\visual studio 2022\Group_Project_own3.0_Nofile\x64\Debug\Group_Project_own3.0_Nofile.exe

@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WAIT\\visual studio 2022\\Group_Project_own3.0_Nofile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3A7C3E-6B2D-49FC-AA64-FA4B1AF3A0FE}|Group_Project_own3.0_Nofile.vcxproj|E:\\WAIT\\visual studio 2022\\Group_Project_own3.0_Nofile\\function.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF3A7C3E-6B2D-49FC-AA64-FA4B1AF3A0FE}|Group_Project_own3.0_Nofile.vcxproj|solutionrelative:function.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3A7C3E-6B2D-49FC-AA64-FA4B1AF3A0FE}|Group_Project_own3.0_Nofile.vcxproj|E:\\WAIT\\visual studio 2022\\Group_Project_own3.0_Nofile\\function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF3A7C3E-6B2D-49FC-AA64-FA4B1AF3A0FE}|Group_Project_own3.0_Nofile.vcxproj|solutionrelative:function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3A7C3E-6B2D-49FC-AA64-FA4B1AF3A0FE}|Group_Project_own3.0_Nofile.vcxproj|E:\\WAIT\\visual studio 2022\\Group_Project_own3.0_Nofile\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF3A7C3E-6B2D-49FC-AA64-FA4B1AF3A0FE}|Group_Project_own3.0_Nofile.vcxproj|solutionrelative:test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "function.h",
+              "DocumentMoniker": "E:\\WAIT\\visual studio 2022\\Group_Project_own3.0_Nofile\\function.h",
+              "RelativeDocumentMoniker": "function.h",
+              "ToolTip": "E:\\WAIT\\visual studio 2022\\Group_Project_own3.0_Nofile\\function.h",
+              "RelativeToolTip": "function.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T15:02:59.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "function.c",
+              "DocumentMoniker": "E:\\WAIT\\visual studio 2022\\Group_Project_own3.0_Nofile\\function.c",
+              "RelativeDocumentMoniker": "function.c",
+              "ToolTip": "E:\\WAIT\\visual studio 2022\\Group_Project_own3.0_Nofile\\function.c",
+              "RelativeToolTip": "function.c",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAnwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-28T15:02:56.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test.c",
+              "DocumentMoniker": "E:\\WAIT\\visual studio 2022\\Group_Project_own3.0_Nofile\\test.c",
+              "RelativeDocumentMoniker": "test.c",
+              "ToolTip": "E:\\WAIT\\visual studio 2022\\Group_Project_own3.0_Nofile\\test.c",
+              "RelativeToolTip": "test.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-28T15:02:54.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 259,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
