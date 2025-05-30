@@ -175,7 +175,7 @@ void log_in()
 			printf("账号未注册！\n\n");
 		}
 	}
-	if (m == 3)
+	if (m == 3 && situation != 1)
 	{
 		printf("已连续三次账号验证错误！\n");
 		(tem.user_option[0])--;  //记录状态
